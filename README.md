@@ -21,6 +21,10 @@ Page numbers past 9 show both digits ("P.12").
 Version 1.0 released the three parts as separate mods. From 1.1 they are one mod; if you
 installed the 1.0 mods, deactivate and remove them before activating FF8 Unlimited.
 
+**Cronos / FF8 Gameplay Customizer:** keep FF8 Unlimited below them in the mod list (Junction
+VIII warns if not). With All Magic on, their Junction value rework can't use
+JunctionDependOfMinLevelQuantity; Vanilla and JunctionDependOfLevel work.
+
 ## Install
 
 In Junction VIII, find **FF8 Unlimited** under **Browse Catalog**, or download the zip from
