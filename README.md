@@ -27,9 +27,10 @@ JunctionDependOfMinLevelQuantity; Vanilla and JunctionDependOfLevel work.
 
 ## Install
 
-In Junction VIII, find **FF8 Unlimited** under **Browse Catalog**, or download the zip from
-[Releases](../../releases) and use **Import Mod**. Open **Configure** to pick the options,
-then press **Play**.
+In Junction VIII, find **FF8 Unlimited** under **Browse Catalog**, or download
+`FF8Unlimited-<version>.iroj` from [Releases](../../releases) and open it with **Import Mod**.
+Open **Configure** to pick the options, then press **Play**. (The v1.0-v1.2 zips can't be
+installed from the catalog; use 1.3 or later.)
 
 ## Notes
 
